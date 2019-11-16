@@ -8,7 +8,7 @@
   "author": "贾亦品",
   "homepage": "https://github.com/dahuzix/union#readme",
   "license": "ISC",
-  "main": "index.js",
+  "main": "index.ts",
   "bin": {
   },
   "scripts": {
